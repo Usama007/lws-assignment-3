@@ -1,0 +1,5 @@
+export const ADD_TASK ="ADD"
+export const EDIT_TASK ="EDIT"
+export const SEARCH ="SEARCH_TASK"
+export const DELETE_ALL ="ALL_DELETE"
+export const DELETE_TASK ="DELETE_INDIVIDUAL"
